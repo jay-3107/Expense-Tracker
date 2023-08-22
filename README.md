@@ -44,25 +44,27 @@ Experience the speed and efficiency of the Medoo framework that powers the backe
      a) MySQL
 
 # Project Snapshots:    
-![ex1](https://github.com/jay-3107/Expense-Tracker/assets/84491551/93da44b9-a78d-49f1-96ae-2abacb95f781)
-![ex2](https://github.com/jay-3107/Expense-Tracker/assets/84491551/ee138a98-33b6-49d0-aaca-7276082a9e88)
-![ex3](https://github.com/jay-3107/Expense-Tracker/assets/84491551/723895cb-675e-4e2e-b4f9-016210900bf7)
-![ex4](https://github.com/jay-3107/Expense-Tracker/assets/84491551/44c65a0e-7e02-4812-9f46-9db2ea9eccca)
-![ex5](https://github.com/jay-3107/Expense-Tracker/assets/84491551/c96a8e8b-b575-4e97-8a85-82c6b43fa1a6)
-![ex6](https://github.com/jay-3107/Expense-Tracker/assets/84491551/2219b128-a514-414d-b6c2-5e8b7d3d3fc9)
-![ex7](https://github.com/jay-3107/Expense-Tracker/assets/84491551/a42d3f8f-1040-4049-8480-119a893d66b5)
-![ex8](https://github.com/jay-3107/Expense-Tracker/assets/84491551/3c632f19-d618-4d99-b649-8e2823bcb3ce)
-![ex9](https://github.com/jay-3107/Expense-Tracker/assets/84491551/602c34f9-632c-4f94-bcf6-2844e46b8da6)
-![ex10](https://github.com/jay-3107/Expense-Tracker/assets/84491551/b93f4395-3b86-4a0e-b62a-a1d562f5594f)
-![ex11](https://github.com/jay-3107/Expense-Tracker/assets/84491551/60347b25-dee2-4bc9-8c9f-5a1a3c2217ba)
-![ex12](https://github.com/jay-3107/Expense-Tracker/assets/84491551/3dd77a19-1e85-485d-b7f6-447953405c1e)
-![ex13](https://github.com/jay-3107/Expense-Tracker/assets/84491551/5754969e-78ce-4af3-90bd-61edbe21c0f0)
-![ex14](https://github.com/jay-3107/Expense-Tracker/assets/84491551/5105b8ea-3ad1-466a-9899-d67944cddfe1)
-![ex15](https://github.com/jay-3107/Expense-Tracker/assets/84491551/f7c7c42e-99a6-40f3-ad23-bec874cacc0d)
-![ex16](https://github.com/jay-3107/Expense-Tracker/assets/84491551/37c5ba05-a03d-4bf8-896f-73dab089e037)
-![ex17](https://github.com/jay-3107/Expense-Tracker/assets/84491551/16bd9ab0-d591-4ca1-a705-ddcc4a702293)
-![ex18](https://github.com/jay-3107/Expense-Tracker/assets/84491551/5360f9cb-eda9-4594-8c33-e6661aeb20a5)
-![ex19](https://github.com/jay-3107/Expense-Tracker/assets/84491551/8e675508-7db0-4900-a929-ac2c240429b5)
+
+![ex1](https://github.com/jay-3107/Expense-Tracker/assets/84491551/5b88d216-894f-4a01-ade3-80b63b6bdd42)
+![ex2](https://github.com/jay-3107/Expense-Tracker/assets/84491551/787ba564-1847-4641-8a04-7a3dbcf22eec)
+![ex3](https://github.com/jay-3107/Expense-Tracker/assets/84491551/dcaff861-0579-49b2-9b49-7939975f878f)
+![ex4](https://github.com/jay-3107/Expense-Tracker/assets/84491551/d1d9aa1e-feb1-460d-b999-ba7e38458019)
+![ex5](https://github.com/jay-3107/Expense-Tracker/assets/84491551/37d6c86d-922c-475d-a135-38c05cb7bd7c)
+![ex6](https://github.com/jay-3107/Expense-Tracker/assets/84491551/a213f108-5532-4d27-acd6-aa809322f885)
+![ex7](https://github.com/jay-3107/Expense-Tracker/assets/84491551/9711e175-08b3-4968-af6e-e21e59c51347)
+![ex8](https://github.com/jay-3107/Expense-Tracker/assets/84491551/bc2e279c-c8ac-46d3-871d-c4526634fee5)
+![ex9](https://github.com/jay-3107/Expense-Tracker/assets/84491551/f9feef12-71b6-4886-89f3-01e946623f6b)
+![ex10](https://github.com/jay-3107/Expense-Tracker/assets/84491551/a29d5cb2-10b7-467e-b82a-f9b8117888b2)
+![ex11](https://github.com/jay-3107/Expense-Tracker/assets/84491551/82431a0e-7fc8-400c-a081-fbb9928f9604)
+![ex12](https://github.com/jay-3107/Expense-Tracker/assets/84491551/4abefd4b-c653-41f6-8f8b-436355b2f3c7)
+![ex13](https://github.com/jay-3107/Expense-Tracker/assets/84491551/f0e9f904-af61-4e14-8c90-276ceb820bbf)
+![ex14](https://github.com/jay-3107/Expense-Tracker/assets/84491551/a3ec48a1-3d92-45e7-b96f-5c13ac28e69b)
+![ex15](https://github.com/jay-3107/Expense-Tracker/assets/84491551/652c5327-5380-4300-9abf-bad7676f6d7c)
+![ex16](https://github.com/jay-3107/Expense-Tracker/assets/84491551/e3e89d9a-6152-4b81-8755-eb205afd26bd)
+![ex17](https://github.com/jay-3107/Expense-Tracker/assets/84491551/0ac3fa2a-62ce-4afc-9c6b-26d3ae12fb04)
+![ex18](https://github.com/jay-3107/Expense-Tracker/assets/84491551/c9706867-31c0-47e3-931f-a7ed5a4de92d)
+![ex19](https://github.com/jay-3107/Expense-Tracker/assets/84491551/f3b6138a-33f6-4440-a672-055b6db07e47)
+
 
 
 Start managing your expenses effectively today with Expense Tracker! If you encounter any issues or have suggestions for improvements, please feel free to open an issue on the repository. We hope this tool helps you achieve your financial goals.
